@@ -1,2 +1,2 @@
-# carbonout.github.io
-Carbonout Website
+# carbonaut.github.io
+Carbonaut Website
