@@ -1,6 +1,6 @@
 ---
-title: "Help"
-description: "Help Doks."
+title: "Core Concepts"
+description: "The core concepts of carbonaut."
 lead: ""
 date: 2020-10-06T08:49:15+00:00
 lastmod: 2020-10-06T08:49:15+00:00
